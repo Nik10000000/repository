@@ -18,7 +18,7 @@ namespace ConsoleApp30
             Console.WriteLine(title);
             Console.WriteLine(form_pravlenia);
             Console.WriteLine("Площадь: "+square);
-            Console.ReadLine();
+            /*Console.ReadLine();*/
         }
     }
     class Program
@@ -28,7 +28,7 @@ namespace ConsoleApp30
             Country country = new Country();
             Console.WriteLine();
             Console.ReadKey();
-        
+                
         }
     }
 }
